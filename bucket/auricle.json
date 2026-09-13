@@ -1,12 +1,12 @@
 {
-    "version": "0.1.3",
-    "description": "Auricle — a native YouTube Music desktop client built with Rust and Slint.",
-    "homepage": "https://github.com/californiaAlmonds/auricle",
+    "version": "0.1.4",
+    "description": "Native Windows music player with YouTube Music catalogue search, a local library, queue, autoplay and audio caching.",
+    "homepage": "https://californiaalmonds.github.io/auricle/",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/californiaAlmonds/auricle/releases/download/v0.1.3/auricle-0.1.3-portable.zip",
-            "hash": "d3e50286b4d575591adb94587237ecd8991b0ee05e08597591fd69a0f713661f"
+            "url": "https://github.com/californiaAlmonds/auricle/releases/download/v0.1.4/auricle-0.1.4-portable.zip",
+            "hash": "5b638d02807f4cce94ae3f277fd2cf3a1cc3e73cb5efd61c008ac17131aa59fa"
         }
     },
     "bin": "auricle.exe",
