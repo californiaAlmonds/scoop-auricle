@@ -1,27 +1,27 @@
 {
-    "version": "0.1.4",
-    "description": "Native Windows music player with YouTube Music catalogue search, a local library, queue, autoplay and audio caching.",
-    "homepage": "https://californiaalmonds.github.io/auricle/",
-    "license": "GPL-3.0-only",
-    "architecture": {
-        "64bit": {
-            "url": "https://github.com/californiaAlmonds/auricle/releases/download/v0.1.4/auricle-0.1.4-portable.zip",
-            "hash": "5b638d02807f4cce94ae3f277fd2cf3a1cc3e73cb5efd61c008ac17131aa59fa"
-        }
-    },
-    "bin": "auricle.exe",
-    "shortcuts": [
-        [
-            "auricle.exe",
-            "Auricle"
-        ]
-    ],
-    "checkver": "github",
-    "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://github.com/californiaAlmonds/auricle/releases/download/v$version/auricle-$version-portable.zip"
-            }
-        }
-    }
+    "version":  "0.1.4",
+    "description":  "Native Windows music player with YouTube Music catalogue search, a local library, queue, autoplay and audio caching.",
+    "homepage":  "https://github.com/californiaAlmonds/auricle",
+    "license":  "GPL-3.0-only",
+    "architecture":  {
+                         "64bit":  {
+                                       "url":  "https://github.com/californiaAlmonds/auricle/releases/download/v0.1.4/auricle-0.1.4-portable.zip",
+                                       "hash":  "5b638d02807f4cce94ae3f277fd2cf3a1cc3e73cb5efd61c008ac17131aa59fa"
+                                   }
+                     },
+    "bin":  "auricle.exe",
+    "shortcuts":  [
+                      [
+                          "auricle.exe",
+                          "Auricle"
+                      ]
+                  ],
+    "checkver":  "github",
+    "autoupdate":  {
+                       "architecture":  {
+                                            "64bit":  {
+                                                          "url":  "https://github.com/californiaAlmonds/auricle/releases/download/v$version/auricle-$version-portable.zip"
+                                                      }
+                                        }
+                   }
 }
