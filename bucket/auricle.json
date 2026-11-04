@@ -1,12 +1,12 @@
 {
-    "version": "0.1.6",
+    "version": "0.1.7",
     "description": "Native Windows music player with YouTube Music catalogue search, a local library, queue, autoplay and audio caching.",
     "homepage": "https://github.com/californiaAlmonds/auricle",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/californiaAlmonds/auricle/releases/download/v0.1.6/auricle-0.1.6-portable.zip",
-            "hash": "3b24ff3f12e3806d1b29666cae543544097350faa0256d3faca4f133d68155d3"
+            "url": "https://github.com/californiaAlmonds/auricle/releases/download/v0.1.7/auricle-0.1.7-portable.zip",
+            "hash": "2f1e8568b25435e448c2c1abe74e6a795c8cd6f5fd7139ef45c749f9599672ad"
         }
     },
     "bin": "auricle.exe",
